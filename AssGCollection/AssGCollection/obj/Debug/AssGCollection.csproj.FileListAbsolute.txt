@@ -1,0 +1,8 @@
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\bin\Debug\AssGCollection.exe.config
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\bin\Debug\AssGCollection.pdb
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.csproj.AssemblyReference.cache
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.csproj.CoreCompileInputs.cache
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.exe
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.pdb
+C:\Users\SNitinbhai\source\repos\AssGCollection\AssGCollection\obj\Debug\AssGCollection.csproj.CopyComplete
